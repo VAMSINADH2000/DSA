@@ -1,0 +1,1 @@
+arr[mid] > arr[mid + 1]
