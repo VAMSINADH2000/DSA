@@ -1,6 +1,6 @@
 
 def binary_search(array,search):
-    start = 0
+    start = 0   #
     end = len(array) - 1
     while(start<=end):
         mid = start + int((end - start)/2)
